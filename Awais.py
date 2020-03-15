@@ -47,15 +47,16 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ _______  ______  _________ ______  
-(  ___  )(  ___ \ \__   __/(  __  \ 
-| (   ) || (   ) )   ) (   | (  \  )
-| (___) || (__/ /    | |   | |   ) |
-|  ___  ||  __ (     | |   | |   | |
-| (   ) || (  \ \    | |   | |   ) |
-| )   ( || )___) )___) (___| (__/  )
-|/     \||/ \___/ \_______/(______/ 
-\033[1;91m=======================================
+logo = """  .,,,.                                       ,,,.
+                      lxxxd.                                      ood.
+                     cxxoxxo.    ....   ....    ...   .',,,'.     ...     .,,,,..
+                    :xxl ;xxo    ,xxl   lxxx.  ,xxl .lxxlclxxx'   dxx'  ;xxl::lxxc
+                   ,xxd.  lxxc    cxx' 'xxxx: .dxd. .''.  .cxxl   dxx'  dxx:'.....
+                  .xxxoccclxxx:   .dxo.oxo;xx.:xx,   ,clddddxxl   dxx'  .cdxxxxdl;.
+                 .dxxl:::::cdxx;   'xxdxx. oxdxxc   lxx:.  :xxc   dxx'  ......,lxxl
+                 oxxc       'xxx'   cxxxc  ,xxxd.   cxxd:;lxxxo   dxx' .lxxl,,;oxx,
+                .;;;         ';;,   .;;;.   ,;;.     ';cc:'.,;;.  ,;;.   .,:cc:;'.
+\033[1;91m======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAwais Khan
 \033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
 \033[1;96mFacebook  \033[1;93m: \033[1;92mAwais Khan
